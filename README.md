@@ -3,6 +3,9 @@
 
 Minimal Flask app to upload a sketch and generate a realistic face using a **Pix2Pix Conditional GAN**.
 
+Dataset, i have used : "https://mmlab.ie.cuhk.edu.hk/archive/facesketch.html 
+Useful Articles : https://affinelayer.com/pix2pix/
+
 ## How to run locally
 ```bash
 pip install -r requirements.txt
