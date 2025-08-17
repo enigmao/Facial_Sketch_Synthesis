@@ -1,0 +1,6 @@
+Flask
+gunicorn
+torch
+torchvision
+Pillow
+werkzeug>=2.0.0
